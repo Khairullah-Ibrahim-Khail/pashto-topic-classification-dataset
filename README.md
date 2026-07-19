@@ -91,8 +91,21 @@ Released for research and educational use. The underlying text remains the prope
 If you use this dataset in your research, please cite it:
 
 ```
-Khairullah. Pashto Topic Classification Dataset: 27K labeled paragraphs
-across 12 topics from Pashto news media. 2026.
+Khairullah Ibrahim Khail. (2026). Pashto Topic Classification Dataset:
+27K Labeled News Paragraphs Across 12 Topics [Data set]. Kaggle.
+https://www.kaggle.com/datasets/khairullahsahil/pashto-topic-classification-dataset
+```
+
+BibTeX:
+
+```bibtex
+@misc{khail2026pashtotopic,
+  author    = {Khairullah Ibrahim Khail},
+  title     = {Pashto Topic Classification Dataset: 27K Labeled News Paragraphs Across 12 Topics},
+  year      = {2026},
+  publisher = {Kaggle},
+  url       = {https://www.kaggle.com/datasets/khairullahsahil/pashto-topic-classification-dataset}
+}
 ```
 
 Questions, corrections, or results to share — please open a discussion. Contributions that grow the smaller classes (especially environment) are particularly welcome.
